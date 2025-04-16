@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Uploads folder (to ignore uploaded files)
+uploads/
+
+# Debug and IDE files
+.vscode/
+.idea/
+
+# npm package lock file (if you prefer not to track it)
+# package-lock.json
+
+# MacOS Finder specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# Optional: Ignore coverage if using testing tools like Jest
+coverage/
